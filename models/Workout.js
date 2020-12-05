@@ -32,6 +32,7 @@ const WorkoutSchema = new Schema({
             type: Number
         },
     }],
+    
 })
 // Search for groups for association purposes, \_( O_ O)_/
 const Workout = mongoose.model('Workout', WorkoutSchema);
