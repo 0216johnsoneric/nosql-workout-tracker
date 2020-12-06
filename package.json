@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/0216johnsoneric/nosql-workout-tracker#readme",
   "dependencies": {
+    "eslint": "^7.15.0",
     "express": "^4.17.1",
     "mongoose": "^5.11.4",
     "morgan": "^1.10.0",
